@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#qr-result img {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+}
