@@ -9,3 +9,9 @@ body {
     width: 200px;
     height: 200px;
 }
+
+button {
+    color: white;
+    border-width: 5px;
+    background-color: black;
+}
